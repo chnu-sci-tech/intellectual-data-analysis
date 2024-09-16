@@ -6,7 +6,7 @@ These are lecture notes from the course **Intellectual Data Analysis**. Feel fre
 
 | Date    | Topic | Link to notes | Progress |
 | ------- | ----- | ------------- | -------- |
-| 03-09-2024    | Introduction                          | [notes](./presentations/1_intro.pptx)                | ✅ |
+| 03-09-2024    | Introduction                          | [presentation](./presentations/1_intro.pptx)         | ✅ |
 | 03-09-2024    | Data Collection and Web scraping      | [notes](./src/102_data_collection_scraping.ipynb)    | ✅ |
 | 10-09-2024    | Relational Data                       | [notes](./src/103_relational_data.ipynb)             | ✅ |
 | 10-09-2024    | Data Visualization                    | [notes](./src/104_data_visualization.ipynb)          | ✅ |
