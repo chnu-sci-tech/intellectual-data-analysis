@@ -15,24 +15,25 @@ These are lecture notes from the course **Intellectual Data Analysis**. Feel fre
 | 17-09-2024    | Free Text and NLP                     | [notes](./src/107_nlp.ipynb)                         | ✅ |
 | 17-09-2024    | Prompt Engineering                    | [notes](./src/108_prompts.ipynb)                     | ✅ |
 | 17-09-2024    | Data Processing                       | [notes](./src/111_data_processing.ipynb)             | ✅ |
-| 24-09-2024    | Machine Learning introduction         | [notes](./src/201_ml_intro.ipynb)                    | 🔜 |
-| 24-09-2024    | Linear Classification                 | [notes](./src/202_linear_classification.ipynb)       | 🔜 |
+| 24-09-2024    | Machine Learning introduction         | [notes](./src/201_ml_intro.ipynb)                    | ✅ |
+| 24-09-2024    | Linear Classification                 | [notes](./src/202_linear_classification.ipynb)       | ✅ |
+| 01-10-2024    | ML intro continued                    | [notes](./src/202_linear_classification.ipynb)       | ✅ |
 | 01-10-2024    | Nonlinear modeling. Cross-validation  | [notes](./src/203_nonlinear.ipynb)                   | 🔜 |
-| 01-10-2024    | Basics of probability                 | [notes](./src/204_probability.ipynb)                 | 🔜 |
+| 08-10-2024    | Basics of probability                 | [notes](./src/204_probability.ipynb)                 | 🔜 |
 | 08-10-2024    | Max. Likelihood Est.. Naive Bayes     | [notes](./src/205_max_like_bayes.ipynb)              | 🔜 |
-| 08-10-2024    | Hypothesis testing                    | [notes](./src/206_hypothesis_testing.ipynb)          | 🔜 |
+| 15-10-2024    | Hypothesis testing                    | [notes](./src/206_hypothesis_testing.ipynb)          | 🔜 |
 | 15-10-2024    | Unsupervised learning                 | [notes](./src/207_unsupervised.ipynb)                | 🔜 |
-| 15-10-2024    | Recommender systems                   | [notes](./src/208_recommender_systems.ipynb)         | 🔜 |
+| 19-10-2024    | Recommender systems                   | [notes](./src/208_recommender_systems.ipynb)         | 🔜 |
 | 19-10-2024    | Decision trees, interpretable models  | [notes](./src/209_decision_trees.ipynb)              | 🔜 |
-| 19-10-2024    | Neural Networks in IDA                | [notes](./src/210_nn.ipynb)                          | 🔜 |
+| 22-10-2024    | Neural Networks in IDA                | [notes](./src/210_nn.ipynb)                          | 🔜 |
 | 22-10-2024    | Deep learning                         | [notes](./src/211_deep_learning.ipynb)               | 🔜 |
-| 22-10-2024    | Modeling of the Crisis Processes      | [notes](./src/212_crysis_modelling.ipynb)            | 🔜 |
+| 29-10-2024    | Modeling of the Crisis Processes      | [notes](./src/212_crysis_modelling.ipynb)            | 🔜 |
 | 29-10-2024    | Epidemic Expansion Modelling          |     | ❔ |
-| 29-10-2024    | Timeseries Prognosis                  |     | ❔ |
+| 05-11-2024    | Timeseries Prognosis                  |     | ❔ |
 | 05-11-2024    | Anomaly Detection                     |     | ❔ |
-| 05-11-2024    | PSO Particle Model                    |     | ❔ |
+| 12-11-2024    | PSO Particle Model                    |     | ❔ |
 | 12-11-2024    | Cellular Automatons                   |     | ❔ |
-| 12-11-2024    | Support Vector Machines               |     | ❔ |
+| 19-11-2024    | Support Vector Machines               |     | ❔ |
 | 19-11-2024    | Kohonen Maps                          |     | ❔ |
 | 19-11-2024    | Genetic Algorithms                    |     | ❔ |
 
