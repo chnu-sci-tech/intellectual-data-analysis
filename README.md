@@ -1,4 +1,4 @@
-# Intellectual Data Analysis
+✅# Intellectual Data Analysis
 
 These are lecture notes from the course **Intellectual Data Analysis**. Feel free to contribute!
 
@@ -18,22 +18,22 @@ These are lecture notes from the course **Intellectual Data Analysis**. Feel fre
 | 24-09-2024    | Machine Learning introduction         | [notes](./src/201_ml_intro.ipynb)                    | ✅ |
 | 24-09-2024    | Linear Classification                 | [notes](./src/202_linear_classification.ipynb)       | ✅ |
 | 01-10-2024    | ML intro continued                    | [notes](./src/202_linear_classification.ipynb)       | ✅ |
-| 01-10-2024    | Nonlinear modeling. Cross-validation  | [notes](./src/203_nonlinear.ipynb)                   | 🔜 |
-| 08-10-2024    | Basics of probability                 | [notes](./src/204_probability.ipynb)                 | 🔜 |
-| 08-10-2024    | Max. Likelihood Est.. Naive Bayes     | [notes](./src/205_max_like_bayes.ipynb)              | 🔜 |
-| 15-10-2024    | Hypothesis testing                    | [notes](./src/206_hypothesis_testing.ipynb)          | 🔜 |
-| 15-10-2024    | Unsupervised learning                 | [notes](./src/207_unsupervised.ipynb)                | 🔜 |
-| 19-10-2024    | Recommender systems                   | [notes](./src/208_recommender_systems.ipynb)         | 🔜 |
-| 19-10-2024    | Decision trees, interpretable models  | [notes](./src/209_decision_trees.ipynb)              | 🔜 |
-| 22-10-2024    | Neural Networks in IDA                | [notes](./src/210_nn.ipynb)                          | 🔜 |
-| 22-10-2024    | Deep learning                         | [notes](./src/211_deep_learning.ipynb)               | 🔜 |
-| 29-10-2024    | Modeling of the Crisis Processes      | [notes](./src/212_crysis_modelling.ipynb)            | 🔜 |
-| 29-10-2024    | Epidemic Expansion Modelling          |     | ❔ |
-| 05-11-2024    | Timeseries Prognosis                  |     | ❔ |
-| 05-11-2024    | Anomaly Detection                     |     | ❔ |
-| 12-11-2024    | PSO Particle Model                    |     | ❔ |
-| 12-11-2024    | Cellular Automatons                   |     | ❔ |
-| 19-11-2024    | Support Vector Machines               |     | ❔ |
-| 19-11-2024    | Kohonen Maps                          |     | ❔ |
-| 19-11-2024    | Genetic Algorithms                    |     | ❔ |
+| 01-10-2024    | Nonlinear modeling. Cross-validation  | [notes](./src/203_nonlinear.ipynb)                   | ✅ |
+| xx-xx-2024    | Basics of probability                 | [notes](./src/204_probability.ipynb)                 | 🔜 |
+| 16-10-2024    | Max. Likelihood Est.. Naive Bayes     | [notes](./src/205_max_like_bayes.ipynb)              | ✅ |
+| 19-10-2024    | Hypothesis testing                    | [notes](./src/206_hypothesis_testing.ipynb)          | ✅ |
+| 22-10-2024    | Unsupervised learning                 | [notes](./src/207_unsupervised.ipynb)                | ✅ |
+| 29-10-2024    | Recommender systems                   | [notes](./src/208_recommender_systems.ipynb)         | ✅ |
+| 29-10-2024    | Decision trees, interpretable models  | [notes](./src/209_decision_trees.ipynb)              | ✅ |
+| xx-xx-2024    | Neural Networks in IDA                | [notes](./src/210_nn.ipynb)                          | 🔜 |
+| xx-xx-2024    | Deep learning                         | [notes](./src/211_deep_learning.ipynb)               | 🔜 |
+| 01-11-2024    | Modeling of the Crisis Processes      | [notes](./src/212_crysis_modelling.ipynb)            | 🔜 |
+| xx-xx-2024    | Epidemic Expansion Modelling          |     | ❔ |
+| xx-xx-2024    | Timeseries Prognosis                  |     | ❔ |
+| xx-xx-2024    | Anomaly Detection                     |     | ❔ |
+| xx-xx-2024    | PSO Particle Model                    |     | ❔ |
+| xx-xx-2024    | Cellular Automatons                   |     | ❔ |
+| xx-xx-2024    | Support Vector Machines               |     | ❔ |
+| xx-xx-2024    | Kohonen Maps                          |     | ❔ |
+| xx-xx-2024    | Genetic Algorithms                    |     | ❔ |
 
